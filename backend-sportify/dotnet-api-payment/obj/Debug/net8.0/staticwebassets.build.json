@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ydKrpBquQy08jfAR0kNVZO9AHp6OqXOktiHvDOGCWWI=",
+  "Source": "Sportify-Payment",
+  "BasePath": "_content/Sportify-Payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
