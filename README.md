@@ -33,6 +33,7 @@
 ✅ Process and manage orders  
 ✅ View sales analytics and reports  
 ✅ User management & role-based access  
+✅ Email confirmation for user registration and order confirmation
 
 ---
 
